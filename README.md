@@ -2,11 +2,11 @@
 
 <p align="center">
 
-<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
+<a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
 </a>
 
-<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
+<a href="https://pandas.pydata.org/">
   <img src="https://img.shields.io/badge/Pandas-Análisis%20de%20Datos-150458?logo=pandas">
 </a>
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Google%20Colab-Ejecución-orange?logo=googlecolab">
 </a>
 
-<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
+<a href="https://github.com/25041098-mxitd/Covid19-Estadistica-Itd-Unidad-VI/blob/main/Analisis_COVID19_Mexico_2020_2021.ipynb">
   <img src="https://img.shields.io/badge/Probabilidad%20y%20Estadística-Proyecto-success">
 </a>
 
