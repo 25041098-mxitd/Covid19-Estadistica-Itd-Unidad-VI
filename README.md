@@ -1,10 +1,23 @@
 # 🦠 Análisis Estadístico y Probabilístico de Casos COVID-19 en México (2020–2021)
 
 <p align="center">
+
+<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+</a>
+
+<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
   <img src="https://img.shields.io/badge/Pandas-Análisis%20de%20Datos-150458?logo=pandas">
+</a>
+
+<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
   <img src="https://img.shields.io/badge/Google%20Colab-Ejecución-orange?logo=googlecolab">
+</a>
+
+<a href="https://colab.research.google.com/drive/1RbOp5r0CpN42nCKpu4hfQQcSBnSUDrGm">
   <img src="https://img.shields.io/badge/Probabilidad%20y%20Estadística-Proyecto-success">
+</a>
+
 </p>
 
 <p align="center">
@@ -24,13 +37,13 @@
 
 ---
 
-## 📊 Descripción
+##  Descripción
 
 Este proyecto realiza un análisis estadístico y probabilístico de los registros epidemiológicos de COVID-19 en México correspondientes al periodo **2020–2021**.
 
 El análisis fue desarrollado utilizando Python y Google Colab sobre una base de datos de:
 
-### 📈 12,634,194 registros epidemiológicos
+###  12,634,194 registros epidemiológicos
 
 Se estudiaron aspectos demográficos, clínicos y probabilísticos para identificar patrones relacionados con contagios, comorbilidades y distribución temporal de los casos.
 
@@ -64,8 +77,8 @@ Se estudiaron aspectos demográficos, clínicos y probabilísticos para identifi
 
 | Archivo | Descripción |
 |----------|------------|
-| `Analisis_COVID19_Mexico_2020_2021.ipynb` | Notebook principal con todo el análisis |
-| `README.md` | Documentación general del proyecto |
+| [📓 Analisis_COVID19_Mexico_2020_2021.ipynb](https://github.com/25041098-mxitd/Covid19-Estadistica-Itd-Unidad-VI/blob/main/Analisis_COVID19_Mexico_2020_2021.ipynb) | Notebook principal con todo el análisis |
+| [📄 README.md](https://github.com/25041098-mxitd/Covid19-Estadistica-Itd-Unidad-VI/blob/main/README.md) | Documentación general del proyecto |
 
 ---
 
@@ -134,13 +147,11 @@ Aplicar los conceptos de probabilidad y estadística mediante Python para desarr
 
 ##  Ejecución
 
-Abrir el archivo:
+Abrir el notebook:
 
-```text
-Analisis_COVID19_Mexico_2020_2021.ipynb
-```
+👉 **[Analisis_COVID19_Mexico_2020_2021.ipynb](https://github.com/25041098-mxitd/Covid19-Estadistica-Itd-Unidad-VI/blob/main/Analisis_COVID19_Mexico_2020_2021.ipynb)**
 
-y ejecutar las celdas de forma secuencial dentro de Google Colab.
+o directamente en Google Colab utilizando cualquiera de los badges mostrados al inicio.
 
 ---
 
