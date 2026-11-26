@@ -31,7 +31,7 @@
 
 | Integrante | No. Control |
 |-----------|------------|
-| Aaron Antonio Contreras Herrera | 25041987 |
+| Aaron Antonio Contreras Herrera | 25041016 |
 | Yael Arturo Aparicio Guzman | 25041005 |
 | Yahir Fernando Vargas Calderón | 25041098 |
 
